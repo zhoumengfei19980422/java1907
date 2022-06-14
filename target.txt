@@ -1,2 +1,3 @@
 git,github
-dev add comething
+dev add something
+dev add other
